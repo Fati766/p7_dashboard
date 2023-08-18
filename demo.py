@@ -5,7 +5,8 @@ import streamlit as st
 from p7scoring.streamlit_functions import st_buttons
 
 if __name__ == "__main__":
-    url = "http://127.0.0.1:5000/"
+    # url = "http://127.0.0.1:5000/"
+    url = "https://git.heroku.com/appscoring2.git"
 
     st.title("Dashboard crédit client")
 
